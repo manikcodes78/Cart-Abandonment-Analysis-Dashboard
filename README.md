@@ -7,7 +7,8 @@ The project uses **Python, SQL, PostgreSQL, and Power BI** to process event data
 
 ## 📊 Dashboard Preview
 
-![Cart Abandonment Analysis Dashboard](Screenshot Dashboard.png)
+
+![Cart Abandonment Dashboard](<powerbi/Screenshot Dashboard.png>)
 
 ## 🎯 Objectives
 - Analyze customer shopping behavior.
@@ -33,7 +34,7 @@ The project uses **Python, SQL, PostgreSQL, and Power BI** to process event data
 | Purchased Sessions | 11,932 |
 | Cart Abandonment Rate | 72.83% |
 
-*Note: These are initial session-level results. The abandonment metric should be validated against the precise cart and purchase-event definitions before being treated as a final business metric.*
+
 
 ## 📈 Dashboard Features
 - KPI cards for cart sessions, abandoned sessions, purchased sessions, and abandonment rate.
